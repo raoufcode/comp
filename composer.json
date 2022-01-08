@@ -1,0 +1,17 @@
+{
+    "name": "abder/try",
+    "autoload": {
+        "psr-4": {
+            "Try\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "raoufcode",
+            "email": "merzouguibatna@gmail.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
+}
